@@ -6,7 +6,6 @@
    <?php include 'links.php' ?>
    <?php include 'Style.php' ?>
    <meta name="viewport" content="width=device-width, initial-scale=1">
-  
    <meta name="google-site-verification" content="WwrWNB959CnIdDy4fH7KU7lxDJXFVA_6KG_oNaTzK7o" />
   
    <meta name="description" content="Latest COVID-19 pandemic updates of India. Live stats , Day wise report , state wise report , Latest MHA guidelines , COVID help as on particular date.">
