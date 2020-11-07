@@ -4,7 +4,8 @@
     <title>India Report</title>
     <?php include 'links.php' ?> 
     <?php include 'Style.php' ?> 
-       <meta name="google-site-verification" content="JkiSPZZ0rvmaK2iuS9_b2tmGd7jdqmqnUvfbKkHqGS8" />
+	<meta name="google-site-verification" content="WwrWNB959CnIdDy4fH7KU7lxDJXFVA_6KG_oNaTzK7o" />
+   
       <meta name="description" content="Latest COVID-19 pandemic updates of India. Live stats , Day wise report , state wise report , Latest MHA guidelines , COVID help as on particular date.">
       <meta name="keywords" content="Corona , Covid-19 , Symptoms , About corona, preventions , Guidelines ">
       <meta name="robots" content="index, follow">
