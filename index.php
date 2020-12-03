@@ -575,7 +575,7 @@
             $key = "AIzaSyBo4GaxmbGg5eDePdQmGS2wsNg2t7wnr6g";
             $baseUrl = "https://www.googleapis.com/youtube/v3/";
             $channelId = "UCTJpJk8bqQQEqeX58z8eimA";
-            $maxResult = "25";
+            $maxResult = "35";
 
             $APIurl = $baseUrl . "search?order=date&part=snippet&channelId=" . $channelId . "&maxResults=" . $maxResult . "&key=" . $key;
 
